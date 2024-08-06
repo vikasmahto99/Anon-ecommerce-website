@@ -82,7 +82,6 @@ for (let i = 0; i < accordionBtn.length; i++) {
 
     this.nextElementSibling.classList.toggle('active');
     this.classList.toggle('active');
-
   });
 
 }
