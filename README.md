@@ -3,7 +3,7 @@
 Anon is a fully responsive e-commerce website designed for optimal compatibility across all mobile devices. It is built using HTML, CSS, and JavaScript, and showcases modern web development techniques.
 
 
-![desktop](https://github.com/user-attachments/assets/a48d3174-9eda-4237-abe0-a5dc13ffeff3)
+![Anon-ecommerce-website](https://github.com/user-attachments/assets/50aad9ba-1dc6-433c-8afe-f9b83394abd8)
 
 
 ## Features
