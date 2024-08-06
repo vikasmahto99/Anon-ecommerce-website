@@ -49,10 +49,16 @@ Contributions are welcome! If you'd like to contribute to the Anon E-Commerce pr
 2. **Clone Your Fork**
    Clone the forked repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Anon-ecommerce-website.git
+   git clone https://github.com/vikasmahto99/Anon-ecommerce-website.git
 
 # License
 This project is free to use and does not have any specific licensing restrictions. You are free to modify and distribute it as needed.
+
+
+
+ # Contact
+If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/vikas-mahto-a21102228/).
+
 
 
 
