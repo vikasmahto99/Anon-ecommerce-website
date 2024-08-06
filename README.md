@@ -20,8 +20,15 @@ Before you begin, ensure you have met the following requirements:
 
 To install Anon, follow these steps:
 
-**Windows**
-git clone https://github.com/vikasmahto99/Anon-ecommerce-website.git
+### Windows
+
+1. Open Command Prompt or PowerShell.
+
+2. Run the following command to clone the repository:
+
+   ```bash
+   git clone https://github.com/vikasmahto99/Anon-ecommerce-website.git
+
 
 
 # License
