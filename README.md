@@ -12,7 +12,7 @@ Anon is a fully responsive e-commerce website designed for optimal compatibility
 - **Interactive Elements**: Includes JavaScript functionality for interactive features like product filtering and a shopping cart.
 - **Stylish UI**: Designed with modern CSS techniques for an attractive user interface.
 
-  ## Technologies Used
+## Technologies Used
 
 - **HTML**: Structure and content of the website.
 - **CSS**: Styling and layout.
