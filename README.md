@@ -14,8 +14,8 @@ Before you begin, ensure you have met the following requirements:
 To install Anon, follow these steps:
 
 Windows:
-
+```bash
 git clone https://github.com/vikasmahto99/Anon-ecommerce-website.git
 
-#License
-This project is free to use and does not contain any license.
+
+
