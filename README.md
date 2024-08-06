@@ -19,8 +19,6 @@ git clone https://github.com/vikasmahto99/Anon-ecommerce-website.git
 
 
 
-### Licence
-This project is free to use and does not contain any license.
 
 
 
